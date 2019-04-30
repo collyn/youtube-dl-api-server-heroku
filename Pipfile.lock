@@ -95,7 +95,7 @@
                 "sha256:0d25459093870bf560bccafe9015e59402d7de1b2c956593623ba4c2840153e5",
                 "sha256:ea0824ae9a166059ec754c267480198a074bd899c20b2ba497809bac099cde2e"
             ],
-            "version": "==2019.4.17"
+            "version": "==2019.4.30"
         },
         "youtube-dl-server": {
             "hashes": [
