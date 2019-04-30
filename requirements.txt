@@ -60,7 +60,7 @@ werkzeug==0.15.2 \
 youtube-dl-server==0.3 \
     --hash=sha256:6ecaaec0f93be49a1127393c5c5d6bba8a578214e93a5b65a7fa13b4e143eeff \
     --hash=sha256:c384804522f0943cf4134603da342af1901fd42eb1ce75c8af1eda2e71beafba
-youtube-dl==2019.4.17 \
+youtube-dl==2019.4.30 \
     --hash=sha256:0d25459093870bf560bccafe9015e59402d7de1b2c956593623ba4c2840153e5 \
     --hash=sha256:ea0824ae9a166059ec754c267480198a074bd899c20b2ba497809bac099cde2e \
     # via youtube-dl-server
